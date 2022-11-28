@@ -1,18 +1,3 @@
-    <?php
-    //Connect
-    $con = mysqli_connect("localhost","root","","undangan");
-    //cek tombol 
-    if(isset($_POST["submit"])){ 
-    $name = $_POST['name'];
-    $hp = $_POST['hp']; 
-    $isi = $_POST['body']; 
-   
-    //insert
-    $querry = "INSERT INTO formundangan
-                VALUES ('', '$name','$hp','$isi') ";
-    mysqli_query($con,$querry);
-    } 
-    ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>

@@ -709,8 +709,8 @@
         var seconds = Math.floor((distance % (1000 * 60)) / 1000);
             
         // Output the result in an element with id="demo"
-        document.getElementById("waktu").innerHTML = days + "Hari " + hours + "Jam "
-        + minutes + "Menit " + seconds + "Detik ";
+        document.getElementById("waktu").innerHTML = days + " Hari " + hours + " Jam "
+        + minutes + " Menit " + seconds + " Detik ";
             
         // If the count down is over, write some text 
         if (distance < 0) {

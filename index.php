@@ -503,7 +503,7 @@
                         <h4 class="mb-3">Hotel Bidakara,Birawa Assembly hall</h4>
                         <p class="mb-2">Jl. Gatot Subroto No.8 RT.8/RW.8 Menteng Dalam</p>
                         <p class="mb-1">Kecamatan.Tebet, Kota Jakarta Selatan</p>
-                        <p class="mb-0 text-info" ><i class="fa-regular fa-clock"></i> 16:45 - Selesai</p> 
+                        <p class="mb-0 text-info" ><i class="fa-regular fa-clock"></i> 16:00 - Selesai</p> 
                     </div>
                      <div class="text-center text-md-right mr-md-3 mb-4 mb-md-0"> 
                          <a href="https://goo.gl/maps/nihfJKQgtksPU9oR9" class="badge bg-info border-0 text-white "><i class="fa-solid fa-map-location-dot"></i> Location</a> 
